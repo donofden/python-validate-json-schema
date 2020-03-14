@@ -107,3 +107,10 @@ On instance['id']:
 Given JSON data is InValid
 
 ```
+
+### Reference:
+
+- https://json-schema.org/
+- https://pynative.com/python-json-validation/
+- https://www.tutorialspoint.com/json/json_schema.htm
+- https://github.com/Julian/jsonschema
