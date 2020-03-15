@@ -89,7 +89,7 @@ Input Json
 
 ## Testing
 
-Lets test with alternative json input, If you cehck `json_validate.py` The `validate()` method will raise an exception if given JSON is not what is described in the schema.
+Lets test with alternative json input, If you check `json_validate.py` The `validate()` method will raise an exception if given JSON is not what is described in the schema.
 
 ```json
 {"id" : "10","name": "DonOfDen","contact_number":1234567890}
