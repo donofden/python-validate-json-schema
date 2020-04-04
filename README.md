@@ -2,7 +2,7 @@
 
 ## Validate JSON Schema using Python
 
-This is a helper project for JSON Schema validation in Pyhton, which uses `Jsonschema` the most complete and compliant JSON Schema validator.
+This is a helper project for JSON Schema validation in Python, which uses `Jsonschema` the most complete and compliant JSON Schema validator.
 
 # Aim of the application
 
